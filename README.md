@@ -1,5 +1,7 @@
 # Edge House Miami: website preview
 
+> **Developers: don't deploy this branch.** `main` is the client preview and every page is marked `noindex, nofollow`, so search engines would ignore the live site. Deploy the **`launch`** branch to https://edgehouse.miamipreconstructionadvisors.com/ instead.
+
 A client preview of the Edge House Miami pre-construction site by Miami Pre-construction Advisors, in English, Spanish and Portuguese.
 
 - Preview: https://llambrano.github.io/edge-house-miami/
