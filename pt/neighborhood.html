@@ -19,7 +19,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Jost:wght@300;400;500;600&family=Pinyon+Script&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Jost:wght@300;400;500;600&family=Pinyon+Script&family=Italiana&display=swap">
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "ApartmentComplex", "name": "Edge House Miami", "description": "Uma torre de 57 andares com residências em condomínio tipo estúdio e de um, dois e três quartos, totalmente acabadas e mobiliadas, em Edgewater, Miami, aprovada para locação de curta temporada.", "address": {"@type": "PostalAddress", "streetAddress": "1837 NE 4th Ave", "addressLocality": "Miami", "addressRegion": "FL", "postalCode": "33132", "addressCountry": "US"}, "amenityFeature": [{"@type": "LocationFeatureSpecification", "name": "Duas piscinas estilo resort", "value": true}, {"@type": "LocationFeatureSpecification", "name": "Spa", "value": true}, {"@type": "LocationFeatureSpecification", "name": "Academia", "value": true}, {"@type": "LocationFeatureSpecification", "name": "Sky bar e lounge", "value": true}, {"@type": "LocationFeatureSpecification", "name": "Espaços de coworking", "value": true}, {"@type": "LocationFeatureSpecification", "name": "Valet 24 horas", "value": true}, {"@type": "LocationFeatureSpecification", "name": "Concierge", "value": true}, {"@type": "LocationFeatureSpecification", "name": "Pet-friendly", "value": true}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Qual é o endereço do Edge House Miami?", "acceptedAnswer": {"@type": "Answer", "text": "1837 NE 4th Avenue, Miami, FL 33132, em Edgewater."}}, {"@type": "Question", "name": "Qual é a distância até o aeroporto e a praia?", "acceptedAnswer": {"@type": "Answer", "text": "A 7 milhas do Aeroporto Internacional de Miami e a 4 milhas de Miami Beach, segundo a incorporadora."}}, {"@type": "Question", "name": "O que há por perto?", "acceptedAnswer": {"@type": "Answer", "text": "Midtown Miami (1,3 milha), Wynwood (1,4 milha), Downtown Miami (1,5 milha), o Design District (1,7 milha) e restaurantes como Klaw, Casadonna e Pura Vida."}}, {"@type": "Question", "name": "Posso ver o projeto pessoalmente?", "acceptedAnswer": {"@type": "Answer", "text": "Sim. Seu consultor agenda apresentações privadas, pessoalmente ou por videochamada. Envie seus dados e nós organizamos."}}]}</script>
 <style>
@@ -585,6 +585,13 @@ h1,h2,h3{font-weight:400}
 .eb5 .eyebrow,.eb5 dt{color:#F0E2C6}
 .eb5 p{color:#F7EFE2}
 .eb5 .fine{color:#E8D6B6}
+
+/* Brand headings: Italiana, a free lookalike of the developer's Bergman (edgehousemiami.com), in their brown-red #663126.
+   Italic tails stay in Cormorant Garamond italic (Italiana has no italic). Light text on dark panels keeps its own color. */
+h1,h2,h3,.logo b{font-family:"Italiana",var(--f-display)}
+h1 em,h2 em,h3 em{font-family:var(--f-display);font-style:italic}
+h2,h3{color:#663126}
+.eb5 h3{color:#fff}
 
 [hidden]{display:none!important}
 body{margin:0}
