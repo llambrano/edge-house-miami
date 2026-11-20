@@ -1,0 +1,122 @@
+{
+ "A1": {
+  "name": "Residence A1",
+  "beds": 1,
+  "sf": 573,
+  "en": "edge-house-miami-residence-a1-one-bedroom-floor-plan.pdf",
+  "es": "edge-house-miami-residence-a1-plano-una-habitacion.pdf",
+  "pt": "edge-house-miami-residence-a1-planta-um-quarto.pdf"
+ },
+ "A2": {
+  "name": "Residence A2",
+  "beds": 1,
+  "sf": 585,
+  "en": "edge-house-miami-residence-a2-one-bedroom-floor-plan.pdf",
+  "es": "edge-house-miami-residence-a2-plano-una-habitacion.pdf",
+  "pt": "edge-house-miami-residence-a2-planta-um-quarto.pdf"
+ },
+ "A3": {
+  "name": "Residence A3",
+  "beds": 1,
+  "sf": 617,
+  "en": "edge-house-miami-residence-a3-one-bedroom-floor-plan.pdf",
+  "es": "edge-house-miami-residence-a3-plano-una-habitacion.pdf",
+  "pt": "edge-house-miami-residence-a3-planta-um-quarto.pdf"
+ },
+ "A4": {
+  "name": "Residence A4",
+  "beds": 1,
+  "sf": 609,
+  "en": "edge-house-miami-residence-a4-one-bedroom-floor-plan.pdf",
+  "es": "edge-house-miami-residence-a4-plano-una-habitacion.pdf",
+  "pt": "edge-house-miami-residence-a4-planta-um-quarto.pdf"
+ },
+ "B1": {
+  "name": "Residence B1",
+  "beds": 2,
+  "sf": 919,
+  "en": "edge-house-miami-residence-b1-two-bedroom-floor-plan.pdf",
+  "es": "edge-house-miami-residence-b1-plano-dos-habitaciones.pdf",
+  "pt": "edge-house-miami-residence-b1-planta-dois-quartos.pdf"
+ },
+ "B2": {
+  "name": "Residence B2",
+  "beds": 2,
+  "sf": 926,
+  "en": "edge-house-miami-residence-b2-two-bedroom-floor-plan.pdf",
+  "es": "edge-house-miami-residence-b2-plano-dos-habitaciones.pdf",
+  "pt": "edge-house-miami-residence-b2-planta-dois-quartos.pdf"
+ },
+ "C1": {
+  "name": "Residence C1",
+  "beds": 2,
+  "sf": 908,
+  "en": "edge-house-miami-residence-c1-two-bedroom-floor-plan.pdf",
+  "es": "edge-house-miami-residence-c1-plano-dos-habitaciones.pdf",
+  "pt": "edge-house-miami-residence-c1-planta-dois-quartos.pdf"
+ },
+ "C2": {
+  "name": "Residence C2",
+  "beds": 2,
+  "sf": 896,
+  "en": "edge-house-miami-residence-c2-two-bedroom-floor-plan.pdf",
+  "es": "edge-house-miami-residence-c2-plano-dos-habitaciones.pdf",
+  "pt": "edge-house-miami-residence-c2-planta-dois-quartos.pdf"
+ },
+ "C3": {
+  "name": "Residence C3",
+  "beds": 2,
+  "sf": 878,
+  "en": "edge-house-miami-residence-c3-two-bedroom-floor-plan.pdf",
+  "es": "edge-house-miami-residence-c3-plano-dos-habitaciones.pdf",
+  "pt": "edge-house-miami-residence-c3-planta-dois-quartos.pdf"
+ },
+ "C4": {
+  "name": "Residence C4",
+  "beds": 2,
+  "sf": 846,
+  "en": "edge-house-miami-residence-c4-two-bedroom-floor-plan.pdf",
+  "es": "edge-house-miami-residence-c4-plano-dos-habitaciones.pdf",
+  "pt": "edge-house-miami-residence-c4-planta-dois-quartos.pdf"
+ },
+ "D1": {
+  "name": "Residence D1",
+  "beds": 3,
+  "sf": 1233,
+  "en": "edge-house-miami-residence-d1-three-bedroom-floor-plan.pdf",
+  "es": "edge-house-miami-residence-d1-plano-tres-habitaciones.pdf",
+  "pt": "edge-house-miami-residence-d1-planta-tres-quartos.pdf"
+ },
+ "S1": {
+  "name": "Residence S1",
+  "beds": 0,
+  "sf": 409,
+  "en": "edge-house-miami-residence-s1-studio-floor-plan.pdf",
+  "es": "edge-house-miami-residence-s1-plano-estudio.pdf",
+  "pt": "edge-house-miami-residence-s1-planta-estudio.pdf"
+ },
+ "S2": {
+  "name": "Residence S2",
+  "beds": 0,
+  "sf": 498,
+  "en": "edge-house-miami-residence-s2-studio-floor-plan.pdf",
+  "es": "edge-house-miami-residence-s2-plano-estudio.pdf",
+  "pt": "edge-house-miami-residence-s2-planta-estudio.pdf"
+ },
+ "S3": {
+  "name": "Residence S3",
+  "beds": 0,
+  "sf": 495,
+  "en": "edge-house-miami-residence-s3-studio-floor-plan.pdf",
+  "es": "edge-house-miami-residence-s3-plano-estudio.pdf",
+  "pt": "edge-house-miami-residence-s3-planta-estudio.pdf"
+ },
+ "S4": {
+  "name": "Residence S4",
+  "beds": 0,
+  "sf": 413,
+  "en": "edge-house-miami-residence-s4-studio-floor-plan.pdf",
+  "es": "edge-house-miami-residence-s4-plano-estudio.pdf",
+  "pt": "edge-house-miami-residence-s4-planta-estudio.pdf"
+ }
+}
